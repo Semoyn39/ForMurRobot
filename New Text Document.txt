@@ -1,0 +1,642 @@
+ ..., 
+ [ 59  98  62]
+ [ 40  78  51]
+ [210 248 221]]
+[[ 79  88  12]
+ [ 78  87  11]
+ [ 79  90  13]
+ ..., 
+ [ 60  99  63]
+ [ 45  83  56]
+ [210 248 221]]
+if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er
+[[ 71  82   3]
+ [ 78  89  10]
+ [ 79  90  13]
+ ..., 
+ [ 63 103  63]
+ [ 45  84  54]
+ [210 249 219]]
+[[ 76  87  10]
+ [ 80  91  14]
+ [ 78  89  12]
+ ..., 
+ [ 68 107  67]
+ [ 47  86  56]
+ [210 249 219]]
+[[ 78  89  12]
+ [ 79  90  13]
+ [ 79  90  13]
+ ..., 
+ [ 68 107  67]
+ [ 50  89  59]
+ [210 249 219]]
+[[ 79  89  10]
+ [ 78  88   9]
+ [ 83  92  11]
+ ..., 
+ [ 71 110  70]
+ [ 59  96  65]
+ [213 250 219]]
+[[ 78  88   9]
+ [ 81  91  12]
+ [ 87  96  15]
+ ..., 
+ [ 78 117  77]
+ [ 70 107  76]
+ [213 250 219]]
+[[ 78  89   8]
+ [ 81  92  11]
+ [ 86  95  12]
+ ..., 
+ [ 85 124  84]
+ [ 74 111  80]
+ [214 251 220]]
+[[ 76  87   6]
+ [ 82  93  12]
+ [ 87  96  13]
+ ..., 
+ [ 88 127  87]
+ [ 78 115  84]
+ [214 251 220]]
+[[ 86  94   9]
+ [ 91  99  14]
+ [ 90  98  12]
+ ..., 
+ [ 91 131  87]
+ [ 79 117  83]
+ [214 252 218]]
+[[ 84  92   7]
+ [ 87  95  10]
+ [ 89  97  11]
+ ..., 
+ [ 89 129  85]
+ [ 76 114  80]
+ [214 252 218]]
+[[ 85  93   7]
+ [ 89  97  11]
+ [ 89  97  12]
+ ..., 
+ [ 84 124  80]
+ [ 75 111  78]
+ [215 251 218]]
+[[ 86  94   8]
+ [ 90  98  12]
+ [ 90  98  13]
+ ..., 
+ [ 83 123  79]
+ [ 72 108  75]
+ [214 250 217]]
+[[ 85  94   5]
+ [ 89  98   9]
+ [ 86  97   8]
+ ..., 
+ [ 81 119  75]
+ [ 69 105  72]
+ [214 250 217]]
+[[ 86  95   6]
+ [ 88  97   8]
+ [ 87  98   9]
+ ..., 
+ [ 83 121  77]
+ [ 65 101  68]
+ [214 250 217]]
+[[ 82  91   2]
+ [ 86  95   6]
+ [ 88  97   8]
+ ..., 
+ [ 88 125  84]
+ [ 64 102  68]
+ [213 251 217]]
+[[ 83  92   3]
+ [ 86  95   6]
+ [ 86  95   6]
+ ..., 
+ [ 88 125  84]
+ [ 65 103  69]
+ [213 251 217]]
+[[ 86  95   6]
+ [ 85  94   5]
+ [ 88  95   6]
+ ..., 
+ [ 91 125  80]
+ [ 66 101  66]
+ [216 251 216]]
+[[ 88  97   8]
+ [ 87  96   7]
+ [ 88  95   6]
+ ..., 
+ [ 85 119  74]
+ [ 64  99  64]
+ [216 251 216]]
+[[ 87  94   5]
+ [ 89  96   7]
+ [ 86  96   5]
+ ..., 
+ [ 81 114  71]
+ [ 61  96  61]
+ [216 251 216]]
+[[ 85  92   3]
+ [ 90  97   8]
+ [ 87  97   6]
+ ..., 
+ [ 81 114  71]
+ [ 58  93  58]
+ [216 251 216]]
+[[ 86  96   5]
+ [ 88  98   7]
+ [ 86  96   5]
+ ..., 
+ [ 75 113  69]
+ [ 56  93  58]
+ [214 251 216]]
+if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: err    if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er
+[[ 89  99   8]
+ [ 86  96   5]
+ [ 86  96   5]
+ ..., 
+ [ 73 111  67]
+ [ 56  93  58]
+ [213 250 215]]
+[[ 89  96   6]
+ [ 87  94   4]
+ [ 89  98   9]
+ ..., 
+ [ 73 111  67]
+ [ 56  93  58]
+ [213 250 215]]
+[[ 88  95   5]
+ [ 87  94   4]
+ [ 86  95   6]
+ ..., 
+ [ 77 115  71]
+ [ 57  94  59]
+ [213 250 215]]
+[[ 88  96   3]
+ [ 87  95   2]
+ [ 89  96   6]
+ ..., 
+ [ 79 118  71]
+ [ 57  96  59]
+ [213 252 215]]
+[[ 87  95   2]
+ [ 87  95   2]
+ [ 90  97   7]
+ ..., 
+ [ 80 119  72]
+ [ 58  97  60]
+ [213 252 215]]
+[[ 88  93   3]
+ [ 90  95   5]
+ [ 87  95   2]
+ ..., 
+ [ 81 120  73]
+ [ 59  97  60]
+ [214 252 215]]
+[[ 86  91   1]
+ [ 91  96   6]
+ [ 88  96   3]
+ ..., 
+ [ 79 118  71]
+ [ 59  97  60]
+ [214 252 215]]
+[[ 89  97   4]
+ [ 88  96   3]
+ [ 87  95   2]
+ ..., 
+ [ 81 119  69]
+ [ 57  95  58]
+ [214 252 215]]
+[[ 85  93   0]
+ [ 90  98   5]
+ [ 91  99   6]
+ ..., 
+ [ 81 119  69]
+ [ 56  94  57]
+ [214 252 215]]
+[[ 88  97   2]
+ [ 89  98   3]
+ [ 86  96   3]
+ ..., 
+ [ 80 118  68]
+ [ 55  93  56]
+ [214 252 215]]
+[[ 88  97   2]
+ [ 89  98   3]
+ [ 86  96   3]
+ ..., 
+ [ 79 117  67]
+ [ 54  92  55]
+ [214 252 215]]
+[[ 86  96   3]
+ [ 86  96   3]
+ [ 86  96   3]
+ ..., 
+ [ 82 119  72]
+ [ 55  93  56]
+ [214 252 215]]
+[[ 85  95   2]
+ [ 86  96   3]
+ [ 88  98   5]
+ ..., 
+ [ 84 121  74]
+ [ 57  95  58]
+ [214 252 215]]
+[[ 87 101   5]
+ [ 86 100   4]
+ [ 87  97   4]
+ ..., 
+ [ 82 119  72]
+ [ 57  95  58]
+ [214 252 215]]
+[[ 84  98   2]
+ [ 84  98   2]
+ [ 88  98   5]
+ ..., 
+ [ 81 118  71]
+ [ 58  96  59]
+ [214 252 215]]
+[[ 86 102   6]
+ [ 82  98   2]
+ [ 85  98   4]
+ ..., 
+ [ 77 115  64]
+ [ 60  99  59]
+ [214 253 213]]
+[[ 89 105   9]
+ [ 84 100   4]
+ [ 85  98   4]
+ ..., 
+ [ 75 113  62]
+ [ 61 100  60]
+ [214 253 213]]
+[[ 85  99   3]
+ [ 85  99   3]
+ [ 85  99   3]
+ ..., 
+ [ 72 111  57]
+ [ 56  95  55]
+ [214 253 213]]
+[[ 85  99   3]
+ [ 85  99   3]
+ [ 84  98   2]
+ ..., 
+ [ 69 108  54]
+ [ 54  93  53]
+ [214 253 213]]
+[[ 87  97   4]
+ [ 86  96   3]
+ [ 87  97   4]
+ ..., 
+ [ 65 103  52]
+ [ 50  89  49]
+ [213 252 212]]
+[[ 88  98   5]
+ [ 86  96   3]
+ [ 86  96   3]
+ ..., 
+ [ 61  99  48]
+ [ 48  87  47]
+ [213 252 212]]
+if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: err    if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er
+[[ 88  98   5]
+ [ 87  97   4]
+ [ 85  95   2]
+ ..., 
+ [ 55  97  47]
+ [ 47  85  48]
+ [213 251 214]]
+[[ 83  93   0]
+ [ 84  94   1]
+ [ 84  94   1]
+ ..., 
+ [ 60 102  52]
+ [ 52  90  53]
+ [213 251 214]]
+[[ 84  97   3]
+ [ 82  95   1]
+ [ 84  94   1]
+ ..., 
+ [ 61 107  56]
+ [ 51  95  57]
+ [209 253 215]]
+[[ 86  99   5]
+ [ 85  98   4]
+ [ 85  95   2]
+ ..., 
+ [ 59 105  54]
+ [ 47  91  53]
+ [209 253 215]]
+[[ 84  94   1]
+ [ 84  94   1]
+ [ 85  95   2]
+ ..., 
+ [ 62 106  54]
+ [ 46  88  50]
+ [210 252 214]]
+[[ 82  92   0]
+ [ 84  94   1]
+ [ 83  93   0]
+ ..., 
+ [ 63 107  55]
+ [ 43  85  47]
+ [210 252 214]]
+[[ 84  94   3]
+ [ 83  93   2]
+ [ 82  92   1]
+ ..., 
+ [ 71 106  57]
+ [ 48  81  45]
+ [217 250 214]]
+[[ 83  93   2]
+ [ 82  92   1]
+ [ 82  92   1]
+ ..., 
+ [ 68 103  54]
+ [ 47  80  44]
+ [217 250 214]]
+[[ 77  91   1]
+ [ 77  91   1]
+ [ 83  93   2]
+ ..., 
+ [ 63  98  49]
+ [ 44  80  43]
+ [215 251 214]]
+[[ 80  94   4]
+ [ 79  93   3]
+ [ 82  92   1]
+ ..., 
+ [ 64  99  50]
+ [ 44  80  43]
+ [215 251 214]]
+[[ 83  97   6]
+ [ 78  92   1]
+ [ 78  92   1]
+ ..., 
+ [ 69 107  57]
+ [ 43  82  42]
+ [213 252 212]]
+[[ 80  94   3]
+ [ 77  91   0]
+ [ 77  91   0]
+ ..., 
+ [ 67 105  55]
+ [ 45  84  44]
+ [213 252 212]]
+[[ 85 100   6]
+ [ 78  93   0]
+ [ 76  90   0]
+ ..., 
+ [ 68 104  53]
+ [ 45  84  44]
+ [213 252 212]]
+[[ 80  95   1]
+ [ 79  94   0]
+ [ 77  91   0]
+ ..., 
+ [ 69 105  54]
+ [ 46  85  45]
+ [213 252 212]]
+[[ 81  93   2]
+ [ 80  92   1]
+ [ 79  90   1]
+ ..., 
+ [ 67 104  50]
+ [ 49  85  46]
+ [215 251 212]]
+[[ 83  95   4]
+ [ 80  92   1]
+ [ 79  90   1]
+ ..., 
+ [ 69 106  52]
+ [ 49  85  46]
+ [215 251 212]]
+[[ 78  89   0]
+ [ 81  92   3]
+ [ 79  90   1]
+ ..., 
+ [ 71 108  54]
+ [ 49  86  45]
+ [215 252 211]]
+[[ 73  84   0]
+ [ 77  88   0]
+ [ 79  90   1]
+ ..., 
+ [ 71 108  54]
+ [ 49  86  45]
+ [215 252 211]]
+[[ 64  72   0]
+ [ 72  80   1]
+ [ 77  86   3]
+ ..., 
+ [ 70 106  55]
+ [ 49  85  46]
+ [215 251 212]]
+[[ 52  60   0]
+ [ 64  72   0]
+ [ 74  83   0]
+ ..., 
+ [ 69 105  54]
+ [ 47  83  44]
+ [215 251 212]]
+if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er     if abs(controlX) NameError: name 'controlX' is not defined
+decs/src/loadsave.cpp:662: er
+[[ 42  48   0]
+ [ 46  52   0]
+ [ 60  69   0]
+ ..., 
+ [ 63 101  50]
+ [ 42  81  41]
+ [213 252 212]]
+[[ 42  48   0]
+ [ 41  47   0]
+ [ 49  54   0]
+ ..., 
+ [ 62  98  47]
+ [ 42  78  39]
+ [215 251 212]]
+[[ 48  54   0]
+ [ 46  52   0]
+ [ 43  48   0]
+ ..., 
+ [ 64 100  49]
+ [ 43  79  40]
+ [215 251 212]]
+[[ 50  66   0]
+ [ 43  59   0]
+ [ 43  52   0]
+ ..., 
+ [ 68 104  53]
+ [ 46  82  43]
+ [215 251 212]]
+[[ 56  72   4]
+ [ 49  65   0]
+ [ 47  56   0]
+ ..., 
+ [ 69 105  54]
+ [ 49  85  46]
+ [215 251 212]]
+[[ 55  81   5]
+ [ 49  75   0]
+ [ 41  65   0]
+ ..., 
+ [ 69 108  54]
+ [ 51  88  47]
+ [215 252 211]]
+[[ 70  96  20]
+ [ 52  78   2]
+ [ 46  70   0]
+ ..., 
+ [ 69 108  54]
+ [ 52  89  48]
+ [215 252 211]]
+[[ 79 110  33]
+ [ 54  85   8]
+ [ 48  73   1]
+ ..., 
+ [ 62 101  47]
+ [ 49  86  45]
+ [215 252 211]]
+[[ 81 112  35]
+ [ 73 104  27]
+ [ 51  76   4]
+ ..., 
+ [ 62 101  47]
+ [ 47  84  43]
+ [215 252 211]]
+[[ 78 113  38]
+ [ 82 117  42]
+ [ 59  90  20]
+ ..., 
+ [ 62  98  43]
+ [ 47  82  39]
+ [217 252 209]]
+[[ 85 120  45]
+ [ 82 117  42]
+ [ 81 112  42]
+ ..., 
+ [ 60  96  41]
+ [ 43  78  35]
+ [217 252 209]]
+[[ 88 119  41]
+ [ 89 120  42]
+ [ 86 118  45]
+ ..., 
+ [ 58  94  39]
+ [ 44  79  36]
+ [217 252 209]]
+[[ 88 119  41]
+ [ 93 124  46]
+ [ 88 120  47]
+ ..., 
+ [ 56  92  37]
+ [ 43  78  35]
+ [217 252 209]]
+[[ 91 119  37]
+ [ 96 124  42]
+ [ 95 122  44]
+ ..., 
+ [ 49  90  43]
+ [ 36  75  38]
+ [212 251 214]]
+[[ 89 117  35]
+ [ 97 125  43]
+ [101 128  50]
+ ..., 
+ [ 51  92  45]
+ [ 35  74  37]
+ [212 251 214]]
+[[ 96 122  46]
+ [ 99 125  49]
+ [103 131  57]
+ ..., 
+ [ 49  92  44]
+ [ 33  75  37]
+ [210 252 214]]
+[[112 138  62]
+ [112 138  62]
+ [109 137  63]
+ ..., 
+ [ 54  97  49]
+ [ 34  76  38]
+ [210 252 214]]
